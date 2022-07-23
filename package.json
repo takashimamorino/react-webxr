@@ -11,12 +11,16 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
+    "@react-three/drei": "^9.17.3",
+    "@react-three/fiber": "^8.2.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "three": "^0.142.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
+    "@types/three": "^0.142.0",
     "@vitejs/plugin-react": "^2.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
